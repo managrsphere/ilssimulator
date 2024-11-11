@@ -1,0 +1,1 @@
+export { default as Eingabemaske } from './Eingabemaske.vue';
